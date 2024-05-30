@@ -5,6 +5,7 @@ Milvus, Milvus Lite, Python, GenAI, LLM, Vector Database, Open Source
 ### References
 
 * https://chiajy.medium.com/70873c7576f1
+* https://python.langchain.com/v0.2/docs/integrations/vectorstores/milvus/
 * https://blog.relari.ai/case-study-using-synthetic-data-to-benchmark-rag-systems-be324904ace1
 * https://www.bentoml.com/blog/building-a-rag-app-with-bentocloud-and-milvus-lite
 * https://github.com/milvus-io/bootcamp/blob/master/bootcamp/tutorials/quickstart/quickstart.ipynb
