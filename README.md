@@ -22,3 +22,4 @@ Milvus, Milvus Lite, Python, GenAI, LLM, Vector Database, Open Source
 * https://milvus.io/docs/integrate_with_jina.md
 * https://dspy-docs.vercel.app/docs/deep-dive/retrieval_models_clients/MilvusRM
 * https://langfuse.com/guides/cookbook/integration_llama-index_milvus-lite
+* https://medium.com/vector-database/getting-started-with-milvus-cluster-and-k8s-9f63ef67a1e3
